@@ -1,0 +1,8 @@
+.Tag {
+  display: inline-block;
+  background: #018a49;
+  padding: 10px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 500;
+}
